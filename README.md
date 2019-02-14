@@ -9,7 +9,7 @@
 # [3일차 설문](https://goo.gl/forms/xoLglGjEtSiWgBvH2)
 - [결과](https://docs.google.com/forms/d/1MuQSnkOp9wUyYI-u3XF1yjSO5bHpttN-cwQEazo1iaI/edit#responses)
 
-# [4일차 설문](https://docs.google.com/forms/d/1QDDqVAzoIfRc4KPe2sARpnk5SGxsEXUM_LxEjqwmJV0/edit)
+# [4일차 설문]()
 - [결과]()
 
 # 과정 종료 
