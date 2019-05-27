@@ -1,6 +1,6 @@
 # ReviewerClass
 
-# [1일차 설문](https://docs.google.com/forms/d/1dbsHrvQ3HJewOuJoMJiNrhwz03gVDc4zMP8dLn0SKg0/edit)
+# [1일차 설문](https://forms.gle/gEnQ7KZZ6heriLecA)
 - [결과]()
 
 # [2일차 설문]()
