@@ -6,7 +6,7 @@
 # [2일차 설문](https://forms.gle/ZFtGe7YMogiGKAuX9)
 - [결과](https://docs.google.com/forms/d/1P-tZfvy_phgIA-YDVIfWaOGQDNsDSrq_g5wLE9484Ak/edit#responses)
 
-# [3일차 설문]()
+# [3일차 설문](https://forms.gle/EVWqRCTKeQTxaLkT9)
 - [결과]()
 
 # [4일차 설문]()
