@@ -7,9 +7,9 @@
 - [결과](https://docs.google.com/forms/d/1P-tZfvy_phgIA-YDVIfWaOGQDNsDSrq_g5wLE9484Ak/edit#responses)
 
 # [3일차 설문](https://forms.gle/EVWqRCTKeQTxaLkT9)
-- [결과]()
+- [결과](https://docs.google.com/forms/d/18afJjZtgYydrhpk0zfqg87-THRD36a8p_cCclV6WL7M/edit?chromeless=1#responses)
 
-# [4일차 설문]()
+# [4일차 설문](https://forms.gle/PyRCBCHjkDrnzyYA8)
 - [결과]()
 
 # 과정 종료 
