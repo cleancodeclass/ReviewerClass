@@ -17,5 +17,5 @@
 
 # [코드리뷰 문화조사](https://forms.gle/NEpXz1s9E5xHXd449)
 
-# [과정종료 문화조사](https://forms.gle/3H2GGboAr27zfXhV8)
+# [과정종료 조사](https://forms.gle/3H2GGboAr27zfXhV8)
 
