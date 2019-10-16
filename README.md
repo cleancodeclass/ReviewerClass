@@ -9,4 +9,4 @@
 # [3일차 설문](https://forms.gle/MgW4wcNCA6jrJ6tR8)
 - [결과]()
 
-# [과정종료 조사]()
+# [과정종료 조사](https://forms.gle/NiTg5ibeDoaZP2fDA)
